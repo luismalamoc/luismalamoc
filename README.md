@@ -13,4 +13,4 @@
 
 ## Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="PYTHON" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="GOLANG" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="HASKELL" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="PYTHON" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="GOLANG" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="HASKELL" width="50" height="50"/> 
