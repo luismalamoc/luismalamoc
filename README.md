@@ -9,8 +9,8 @@
 
 ## Find Me
 
-- 🐦 [Twitter](https://twitter.com/luismalamoc)
-- 🧑🏻‍💻 [Linkedin](https://www.linkedin.com/in/luismalamoc/?locale=en_US)
+- :bird: [Twitter](https://twitter.com/luismalamoc)
+- :dart: [Linkedin](https://www.linkedin.com/in/luismalamoc/?locale=en_US)
 - :mailbox: [Email](mailto:luismalamoc@gmail.com)
 
 ## Tools
