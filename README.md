@@ -2,9 +2,11 @@
 
 ## About Me
 
-- 🖥️ I’m currently working as a Software Engineer with more 5 years experience
-- 📖 I’m currently learning functional programming concepts with Haskell programming language
-- ☁️ I feel more confortable working on the backend and cloud services
+- :earth_americas: I'm from Venezuela living in Chile
+- :computer: I'm currently working as a Software Engineer building Backend stuff
+- :seedling: I’m currently learning functional programming concepts with Haskell programming language
+- :mailbox: How to reach me: luismalamoc@gmail.com
+- :bicyclist: I like hiking and bike riding 
 
 ## Find Me
 
