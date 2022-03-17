@@ -4,7 +4,7 @@
 
 - :earth_americas: I'm from Venezuela living in Chile
 - :computer: I'm currently working as a Software Engineer building Backend stuff
-- :seedling: I’m currently learning functional programming concepts with Haskell programming language
+- :seedling: I’m currently learning functional programming concepts
 - :bicyclist: I like hiking and bike riding 
 
 ## Find Me
