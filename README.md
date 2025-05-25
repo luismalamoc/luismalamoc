@@ -10,8 +10,8 @@
 
 ## Tech Stack
 **Frontend:** TypeScript, React, Vue.js  
-**Backend:** Node.js, Python/FastAPI, Java/Spring  
-**Cloud:** AWS, Docker, Terraform  
+**Backend:** Node.js/Express, Python/FastAPI, Java/Spring  
+**Cloud:** AWS, Docker  
 
 ## Featured Templates
 - [express-typescript-template](https://github.com/luismalamoc/express-typescript-template)
