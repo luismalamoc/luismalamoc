@@ -12,9 +12,3 @@
 **Frontend:** TypeScript, React, Vue.js  
 **Backend:** Node.js/Express, Python/FastAPI, Java/Spring  
 **Cloud:** AWS, Docker  
-
-## Featured Templates
-- [express-typescript-template](https://github.com/luismalamoc/express-typescript-template)
-- [react-typescript-template](https://github.com/luismalamoc/react-typescript-template)  
-- [fastapi-template](https://github.com/luismalamoc/fastapi-template)
-- [springboot-template](https://github.com/luismalamoc/springboot-template)
