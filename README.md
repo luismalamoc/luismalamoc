@@ -1,14 +1,30 @@
-# Hi there 👋
+Senior Software Engineer with 9+ years of experience specializing in full-stack development and microservices architecture. Expert in TypeScript, React, Node.js, Python, and Java with proven track record in enterprise-level applications, API development, and cloud deployment. Recently completed successful tenure at VariaCode focusing on distributed systems and SaaS applications.
 
-- 🔭 I'm currently working on **microservices and SaaS applications** at VariaCode
-- 🌱 I'm currently learning **advanced distributed system patterns** and **system design patterns**
-- 👯 I'm looking to collaborate on **open source projects** and **developer tools**
-- 🤔 I'm looking for help with **modern frontend patterns** and **UI/UX best practices** after years of backend focus
-- 💬 Ask me about **TypeScript, React, Node.js, Python, or Java/Spring migration strategies**
-- 📫 How to reach me: **luismalamoc@gmail.com** or [LinkedIn](https://linkedin.com/in/luismalamoc)
-- ⚡ Fun fact: I like to take a taste of **strange programming languages** that nobody cares or have ever heard of
+## Key Expertise
 
-## Tech Stack
-**Frontend:** TypeScript, React, Vue.js  
-**Backend:** Node.js/Express, Python/FastAPI, Java/Spring  
-**Cloud:** AWS, Docker  
+### Full-Stack Development
+- TypeScript
+- React
+- Node.js
+- Python
+- Java
+
+### Architecture & Development
+- Microservices Architecture and API Development
+- Enterprise Application Development and Migration Strategies
+
+### Cloud Technologies
+- AWS
+- Docker
+- Azure
+
+### Database Management
+- MySQL
+- PostgreSQL
+- Oracle
+- Snowflake
+
+### DevOps & CI/CD
+- CircleCI
+- Jenkins
+- Terraform
