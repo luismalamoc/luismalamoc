@@ -1,14 +1,10 @@
-# 👋 Hi there, I'm Luis Alamo
+# 👋 Hi there, I'm Luis
 
 ## 🚀 About Me
-Senior Software Engineer with 9+ years of experience specializing in full-stack development and microservices architecture. Expert in TypeScript, Node.js, Python, and Java with proven track record in enterprise-level applications, API development, and cloud deployment.
+Experienced Senior Software Engineer and Tech Lead specializing in backend systems and cloud platforms. I am pursuing DevSecOps and transitioning toward Cloud Security roles, leveraging my hands-on experience with Terraform, CI/CD, AWS and secure infrastructure design.
 
 ## 💻 Tech Stack
-**Frontend:** TypeScript, Angular, HTML5, CSS3  
-**Backend:** Node.js (Express), Python (FastAPI), Java (Spring Boot)  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes  
-**Databases:** MySQL, PostgreSQL, Oracle, Redis  
-**Tools:** Git, Jenkins, CircleCI, Terraform  
+Node.js (Express), Python (FastAPI), Java (Spring Boot), AWS, Azure, Docker, Kubernetes, MySQL, PostgreSQL, Oracle, Redis, Git, Jenkins, CircleCI, Terraform  
 
 ## 🔧 Key Expertise
 - 🏗️ Microservices Architecture & API Development
@@ -20,6 +16,3 @@ Senior Software Engineer with 9+ years of experience specializing in full-stack 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismalamoc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luismalamoc@gmail.com)
-
----
-⚡ *Always learning, always building something awesome!*
